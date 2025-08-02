@@ -90,8 +90,7 @@ Explore a working version on Colab:
 ### 🎥 Visual Walkthrough
 
 Here’s a preview of how it works:
-[GitHub Demo Screenshot](https://github.com/user-attachments/assets/3b4927fe-3943-485b-9c0f-7fb90331c1de)
-
+https://github.com/user-attachments/assets/3b4927fe-3943-485b-9c0f-7fb90331c1de
 ---
 
 Whether you're a data scientist looking to speed up your workflow or a student trying to make sense of a dataset, this tool helps you jump from raw data to valuable insights — fast and fuss-free.
